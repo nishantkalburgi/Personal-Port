@@ -688,7 +688,7 @@ p.feature {
 }
 @media(min-width:1500px) {
     .script{
-        margin-top: 12.5rem !important;
+        margin-top: 10rem !important;
     }
     .main-header{
         font-size: 13rem;
